@@ -4,7 +4,7 @@ Encoding / Decoding
 
 ## split across two datasets
 
-> a. SHD
+> a. SHD  
 > b. GSC
 
 # A. SHD
